@@ -27,9 +27,8 @@ Essentialy, COM port that you see when board is in idle state - it is HID port. 
 Changes history:
 v2.0 - 08.01.2025
         - Forked & changed
-		- Arduino Leonardo Beetle insted Leonardo-Pro-Micro-ATmega32U4
-		- 4-way joistick insted 2 keys
-
+	- Arduino Leonardo Beetle insted Leonardo-Pro-Micro-ATmega32U4
+ - 4-way joistick insted 2 keys
 
 v1.5 - 13.02.2018
         - Bugfix in login transmit procedure.
